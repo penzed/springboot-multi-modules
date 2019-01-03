@@ -1,0 +1,5 @@
+/home/pinux/IdeaProjects/springboot-multi-modules/common/src/main/java/com/pinux/mail/enums/MailContentTypeEnum.java
+/home/pinux/IdeaProjects/springboot-multi-modules/common/src/main/java/com/pinux/CommonApplication.java
+/home/pinux/IdeaProjects/springboot-multi-modules/common/src/main/java/com/pinux/mail/utils/PropertiesUtil.java
+/home/pinux/IdeaProjects/springboot-multi-modules/common/src/main/java/com/pinux/mail/entity/MailEntity.java
+/home/pinux/IdeaProjects/springboot-multi-modules/common/src/main/java/com/pinux/mail/core/MailSender.java
